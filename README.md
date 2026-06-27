@@ -44,4 +44,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2595-number-of-even-and-odd-bits](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/2595-number-of-even-and-odd-bits) |
 <!---LeetCode Topics End-->
