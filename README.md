@@ -10,6 +10,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0013-roman-to-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0172-factorial-trailing-zeroes) |
+| [0509-fibonacci-number](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -49,4 +50,16 @@
 |  |
 | ------- |
 | [2595-number-of-even-and-odd-bits](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/2595-number-of-even-and-odd-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
