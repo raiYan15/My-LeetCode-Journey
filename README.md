@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0013-roman-to-integer) |
+| [0172-factorial-trailing-zeroes](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0172-factorial-trailing-zeroes) |
 ## String
 |  |
 | ------- |
