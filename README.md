@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Matrix
 |  |
@@ -70,4 +71,12 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
