@@ -47,12 +47,14 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
+| [1301-number-of-paths-with-max-score](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
+| [1301-number-of-paths-with-max-score](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
+| [1301-number-of-paths-with-max-score](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 ## Recursion
 |  |
 | ------- |
