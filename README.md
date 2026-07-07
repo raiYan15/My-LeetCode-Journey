@@ -16,6 +16,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0172-factorial-trailing-zeroes) |
 | [0509-fibonacci-number](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |
