@@ -57,6 +57,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0075-sort-colors) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
