@@ -59,6 +59,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
@@ -102,6 +103,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0075-sort-colors) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sliding Window
 |  |
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
