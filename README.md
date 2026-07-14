@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0036-valid-sudoku) |
+| [0053-maximum-subarray](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 ## Recursion
@@ -120,4 +122,8 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
