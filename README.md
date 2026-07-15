@@ -63,6 +63,7 @@
 | [0075-sort-colors](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
+| [0643-maximum-average-subarray-i](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1301-number-of-paths-with-max-score](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
 |  |
