@@ -42,12 +42,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
@@ -160,4 +162,12 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
