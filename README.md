@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0036-valid-sudoku) |
@@ -64,6 +65,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
