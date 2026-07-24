@@ -79,6 +79,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1301-number-of-paths-with-max-score](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1929-concatenation-of-array](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -157,6 +158,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
