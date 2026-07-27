@@ -81,6 +81,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0733-flood-fill) |
+| [0875-koko-eating-bananas](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1301-number-of-paths-with-max-score](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -158,6 +159,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0875-koko-eating-bananas](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0875-koko-eating-bananas) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
