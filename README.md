@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0041-first-missing-positive) |
 | [0560-subarray-sum-equals-k](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -71,6 +72,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
