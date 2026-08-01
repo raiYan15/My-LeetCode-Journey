@@ -23,6 +23,7 @@
 | [0013-roman-to-integer](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0172-factorial-trailing-zeroes) |
+| [0486-predict-the-winner](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -81,6 +82,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
+| [0486-predict-the-winner](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0733-flood-fill) |
@@ -109,12 +111,14 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0053-maximum-subarray) |
+| [0486-predict-the-winner](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -189,4 +193,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
