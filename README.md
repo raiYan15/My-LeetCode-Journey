@@ -45,6 +45,7 @@
 | [0841-keys-and-rooms](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Depth-First Search
 |  |
@@ -55,6 +56,7 @@
 | [0733-flood-fill](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | [0733-flood-fill](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
