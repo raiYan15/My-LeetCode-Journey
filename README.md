@@ -39,6 +39,7 @@
 | [0013-roman-to-integer](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Graph Theory
 |  |
@@ -120,6 +121,7 @@
 | [0486-predict-the-winner](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -160,6 +163,7 @@
 | [0125-valid-palindrome](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
 |  |
 | ------- |
