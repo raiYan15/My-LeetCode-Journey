@@ -13,6 +13,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
@@ -100,6 +101,7 @@
 | [1929-concatenation-of-array](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/3364-minimum-positive-sum-subarray) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
@@ -147,6 +149,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0075-sort-colors) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
 | ------- |
