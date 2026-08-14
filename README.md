@@ -14,6 +14,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
@@ -40,6 +41,7 @@
 | [0013-roman-to-integer](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Graph Theory
@@ -156,6 +158,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
