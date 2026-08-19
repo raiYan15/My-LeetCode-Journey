@@ -230,4 +230,8 @@
 |  |
 | ------- |
 | [0077-combinations](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0077-combinations) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
