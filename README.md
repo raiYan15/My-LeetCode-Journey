@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0088-merge-sorted-array) |
