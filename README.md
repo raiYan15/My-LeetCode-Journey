@@ -27,6 +27,7 @@
 | [0013-roman-to-integer](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0172-factorial-trailing-zeroes) |
+| [0319-bulb-switcher](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0319-bulb-switcher) |
 | [0486-predict-the-winner](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -258,4 +259,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0169-majority-element) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
