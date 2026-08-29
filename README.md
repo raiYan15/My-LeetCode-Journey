@@ -59,6 +59,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
@@ -216,6 +217,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -223,11 +225,13 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Game Theory
