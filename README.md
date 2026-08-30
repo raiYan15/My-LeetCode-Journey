@@ -99,6 +99,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
@@ -132,6 +133,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
