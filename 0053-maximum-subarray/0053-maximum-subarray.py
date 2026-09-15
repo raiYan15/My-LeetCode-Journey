@@ -1,17 +1,9 @@
-from typing import List
-
 class Solution:
-    def maxSubArray(self, nums: List[int]) -> int:
-        ms = nums[0]
-        cs = 0
-
-        for num in nums:
-            cs += num
-
-            if cs > ms:
-                ms = cs
-
-            if cs < 0:
-                cs = 0
-
-        return ms
+    def maxSubArray(self, nums: list[int]) -> int:
+        r = nums[0]
+        f = nums[0]
+        for i in range(1 , len(nums)):
+            r = max(nums[i], r + nums[i])
+            f = max(r,f)
+        return f
+        
