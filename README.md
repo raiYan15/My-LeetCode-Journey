@@ -11,6 +11,7 @@
 | [0036-valid-sudoku](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -104,6 +105,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -168,6 +170,7 @@
 | [0075-sort-colors](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raiYan15/My-LeetCode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
